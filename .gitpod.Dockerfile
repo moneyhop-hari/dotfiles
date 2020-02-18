@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM Ubuntu:18.04
 
 USER gitpod
 
